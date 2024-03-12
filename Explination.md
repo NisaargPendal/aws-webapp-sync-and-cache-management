@@ -1,4 +1,4 @@
-Detailed explanation of the code.
+## Detailed explanation of the code.
 
 ```bash
 # Function to unzip the contents and copy the "build" directory
